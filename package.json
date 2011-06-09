@@ -10,7 +10,7 @@
   "engines": {
     "node": "*"
   },
-  "dependencies": { "request", "xml2js", "underscore" },
+  "dependencies": [ "request", "xml2js", "underscore" ],
   "devDependencies": { },
   "main": "index"
 }
