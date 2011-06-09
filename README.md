@@ -1,6 +1,6 @@
 # noodle
 
-Very simple [Oodle API](http://developer.oodle.com/) wrapper.
+Very simple [Oodle API](http://developer.oodle.com/) wrapper for Node.JS.
 
 ## Installation
 
