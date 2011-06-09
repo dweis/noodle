@@ -27,7 +27,7 @@ Very simple [Oodle API](http://developer.oodle.com/) wrapper.
 
 MIT License
 
-Copyright (C) 2011 by Derrick Weis &lt;derrick@derrickweis.com&rt;
+Copyright (C) 2011 by Derrick Weis &lt;derrick@derrickweis.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
