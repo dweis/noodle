@@ -19,7 +19,7 @@ Very simple [Oodle API](http://developer.oodle.com/) wrapper for Node.JS.
                  , q: 'longboard'
                  }
 
-    noodle.fetchListings(params, function(data) {
+    noodle.fetchListings(params, function(err, data) {
       console.log(data)
     })
 

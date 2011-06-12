@@ -21,14 +21,14 @@ var params = { apiKey: API_KEY
              , assisted_search: true
              }
 
-noodle.fetchListings(params, function(data) {
+noodle.fetchListings(params, function(err, data) {
   console.log(data)
 })
 
-//noodle.fetchCategories(function(categories) {
+//noodle.fetchCategories(function(err, categories) {
 //  console.log(categories)
 //})
 
-//noodle.fetchRegions(function(regions) {
+//noodle.fetchRegions(function(err, regions) {
 //  console.log(regions)
 //})

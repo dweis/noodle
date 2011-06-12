@@ -28,8 +28,8 @@ vows
               , '</categories>' ].join('\n'))
         })
 
-        noodle.fetchCategories(function(categories) {
-          callback(null, categories)
+        noodle.fetchCategories(function(err, categories) {
+          callback(err, categories)
         })
       }
 
@@ -87,8 +87,8 @@ vows
               , '</regions>' ].join('\n'))
         })
 
-        noodle.fetchRegions(function(regions) {
-          callback(null, regions)
+        noodle.fetchRegions(function(err, regions) {
+          callback(err, regions)
         })
       }
 
