@@ -1,5 +1,5 @@
 var noodle = require('../index')
-  , sys = require('sys')
+  , util = require('util')
 
 const API_KEY = "TEST"
 

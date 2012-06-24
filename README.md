@@ -9,7 +9,7 @@ Very simple [Oodle API](http://developer.oodle.com/) wrapper for Node.JS.
 ## Usage 
 
     var noodle = require('noodle')
-      , sys = require('sys')
+      , util = require('util')
 
     const API_KEY = "<<YOUR API KEY>>"
 
